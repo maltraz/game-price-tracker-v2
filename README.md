@@ -4,10 +4,41 @@ Projekt został przepisany w architekturze MERN (MongoDB, Express.js, React, Nod
 
 Aplikacja umożliwia wyszukiwanie gier, porównywanie cen, zarządzanie kontem użytkownika oraz przeglądanie historii wyszukiwań.
 
-
-## Autor: Mateusz Bartosiewicz
-
 ---
+
+## Zrzuty ekranu
+
+### Podgląd aplikacji
+
+<p align="center">
+  <img src="screenshots/1.png" width="45%">
+  <img src="screenshots/2.png" width="45%">
+</p>
+
+<p align="center">
+- Rejestracja </br>
+- Logowanie
+</p>
+
+<p align="center">
+  <img src="screenshots/3.png" width="45%">
+  <img src="screenshots/4.png" width="45%">
+</p>
+
+<p align="center">
+- Wyszukiwanie przykładowych gier
+</p>
+
+<p align="center">
+  <img src="screenshots/5.png" width="45%">
+  <img src="screenshots/6.png" width="45%">
+</p>
+
+<p align="center">
+- Historia wyszukiwania <br>
+- Profil użytkownika
+</p>
+
 
 # Technologie
 
